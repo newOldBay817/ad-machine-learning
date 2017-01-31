@@ -22,3 +22,11 @@ Contains scripts used to generate graphs
 
 Machine_Learning_Nicholas_Lechner.docx
 Contains formal writeup and presentation of data
+
+Run in the following order:
+1. cleaning.R
+2. functions.R
+3. generate_predictions.R
+4. testing_paramaters.R
+5. 100_Tests.R
+6. plots.R
