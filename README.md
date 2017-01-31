@@ -19,3 +19,6 @@ Contains script used to test the 3 models over a for loop 100 times and calculat
 
 plots.R
 Contains scripts used to generate graphs
+
+Machine_Learning_Nicholas_Lechner.docx
+Contains formal writeup and presentation of data
